@@ -14,6 +14,5 @@ Hi, I'm Prachi <br>I’m currently working on: Building interactive Power BI das
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pmasurkar052-cmyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=pmasurkar052-cmyk&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
